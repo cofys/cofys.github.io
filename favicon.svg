@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="North American Plow — a plow blade pushing a snow roll">
+  <rect x="2" y="2" width="60" height="60" rx="8" fill="#1c2333" stroke="#f2a81d" stroke-width="3"/>
+  <path d="M10 52 H54" stroke="#faf3e0" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="18" cy="42" r="11" fill="#faf3e0"/>
+  <circle cx="30" cy="49" r="5" fill="#faf3e0"/>
+  <path d="M38.8 6 Q28.1 30 34.9 54 L47.4 54 Q40.7 31 50.3 10 Z" fill="#e85d1f"/>
+</svg>
